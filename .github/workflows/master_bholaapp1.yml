@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'BholaApp1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9D60C3778E84363A2975E9FE9147205 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9391A1243F4A4FAFB174A6F2CB407D14 }}
           package: .
